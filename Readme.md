@@ -4,7 +4,7 @@ Experience SQL Database which is relational Database-as-a-Service offering from 
 
 ## Architecture
 
-## Check list
+## Prerequisites 
 
 Azure subscription as:
 * Subscription contributor 
