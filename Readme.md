@@ -4,16 +4,17 @@ Experience SQL Database which is relational Database-as-a-Service offering from 
 
 ## Architecture
 
-## Prerequisites 
+## Prerequisites
 
-Azure subscription as:
+- [ ]Your own laptop (Windows or Mac)
+
+- [ ] Azure subscription as:
 * Subscription contributor 
 * Resource group onwer
 
-[Visual Studio Code](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-develop-use-vscode?view=sql-server-2017)
+- [ ] [Visual Studio Code](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-develop-use-vscode?view=sql-server-2017)
 * Install VS Code
 * Install _mssql for Visual Studio Code_ extension
-
 
 ## Agenda
 
