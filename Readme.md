@@ -23,16 +23,24 @@ Experience SQL Database which is relational Database-as-a-Service offering from 
 
 01. Create SQL DB
 
+    Provision a SQL DB from Azure Portal
+
 02. Configure
+
+    See available options for SQL DB Settings
 
 03. Run Queries
 
+    Run sample queries from Visual Studio Code
+
 04. Secure and Protect
+
+    See available options to protect your data
 
 05. Intelligent Performance
 
-Monitor Database
+    Monitor database performace
 
 06. Business Continuity
 
-Backup and recovery Database
+    Backup and recovery Database
