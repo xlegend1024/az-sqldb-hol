@@ -23,12 +23,16 @@ Experience SQL Database which is relational Database-as-a-Service offering from 
 
 01. Create SQL DB
 
-02. Configure Database
+02. Configure
 
 03. Run Queries
 
-04. Secure Database
+04. Secure and Protect
 
-05. Monitor Database
+05. Intelligent Performance
 
-06. Backup and recovery Database
+Monitor Database
+
+06. Business Continuity
+
+Backup and recovery Database
