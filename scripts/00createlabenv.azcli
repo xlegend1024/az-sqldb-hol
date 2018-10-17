@@ -85,7 +85,7 @@ file_to_upload="./wwimdb.bacpac"
 objName=wwimdb.bacpac
 # wget is tool you can download files
 # Cloud Shell has wget.exe on both Bash or Powershell 
-wget -O $file_to_upload ttps://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImporters-Full.bacpac
+wget -O $file_to_upload https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImporters-Full.bacpac
 
 # Uploading a SQLDB Backup file
 echo "5. Upload sample db to blob"
