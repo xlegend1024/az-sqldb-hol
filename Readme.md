@@ -19,6 +19,10 @@ Experience SQL Database which is relational Database-as-a-Service offering from 
 
 - [ ] (_Optional_) Cloud Shell
 
+## Query Samples
+
+Referenced from [sql-server-samples](https://github.com/Microsoft/sql-server-samples)
+
 ## Agenda
 
 01. Create SQL DB
