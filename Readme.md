@@ -13,15 +13,10 @@ Experience SQL Database which is relational Database-as-a-Service offering from 
     * Subscription contributor 
     * Resource group onwer
 
-- [ ] [Visual Studio Code](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-develop-use-vscode?view=sql-server-2017)
-    * Install VS Code
-    * Install _mssql for Visual Studio Code_ extension
+- [ ] [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017)
+    * Install Azure Data Studio
 
 - [ ] (_Optional_) Cloud Shell
-
-## Query Samples
-
-Referenced from [sql-server-samples](https://github.com/Microsoft/sql-server-samples)
 
 ## Agenda
 
@@ -39,14 +34,19 @@ Referenced from [sql-server-samples](https://github.com/Microsoft/sql-server-sam
 
     Run sample queries from Visual Studio Code
 
-04. Secure and Protect
+04. [Secure and Protect](04.SecureProtect.md)
 
     See available options to protect your data
 
-05. Intelligent Performance
+05. [Intelligent Performance](05.IntelligentPerformance.md)
 
     Monitor database performace
 
-06. Business Continuity
+06. [Business Continuity](06.BusinessContinuity.md)
 
     Backup and recovery Database
+
+
+## Query Samples
+
+Referenced from [sql-server-samples](https://github.com/Microsoft/sql-server-samples)
