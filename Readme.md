@@ -25,15 +25,17 @@ Referenced from [sql-server-samples](https://github.com/Microsoft/sql-server-sam
 
 ## Agenda
 
-01. Create SQL DB
+00. [Setup Lab Environment](00.CreateLabEnv.md)
+
+01. [Create SQL DB](01.CreateSQLDB.md)
 
     Provision a SQL DB from Azure Portal
 
-02. Configure
+02. [Configure](02.ConfigureDatabase.md)
 
     See available options for SQL DB Settings
 
-03. Run Queries
+03. [Run Queries](03.RunQueries.md)
 
     Run sample queries from Visual Studio Code
 

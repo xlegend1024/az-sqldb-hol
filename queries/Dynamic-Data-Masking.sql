@@ -1,22 +1,3 @@
-# 04. Secure Database
-
-See security options for SQL Database
-
-## Architecture
-
-## Use AAD User to Manage DB
-
-## Create a user
-
-Create a user with reader role
-
-## Connect to SQL DB
-
-### SQL Firewall 
-
-## Dynamic Data Masking
-
-```sql
 USE master;
 GO
 
@@ -52,23 +33,4 @@ GO
 
 REVERT;
 GO
-
-
-```
-
-## Advanced Threat Protection
-
-## Discovery and Assessment 
-
-## Activity Monitoring
-
-## Resource Monitoring
-
-### Azure Portal
-
-### SQL DB DMV (Dynamic Management View)
-
-master.sys.resource_stats
-
-userdb.sys.dm_db_resource_stats
 
